@@ -8,4 +8,5 @@
 (require 'init-neotree)
 (require 'init-scala-model)
 (require 'init-my-python-mode)
+(require 'init-my-evil)
 (provide 'init-local)
